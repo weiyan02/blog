@@ -23,7 +23,7 @@ education:
       institution: 北京大学物理学学院
       year: 2020
     - institution: 长沙市雅礼中学
-      year: 2018
+      year: 2017
       course: 高中
 email: ""
 superuser: true
